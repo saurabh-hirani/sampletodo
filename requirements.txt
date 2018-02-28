@@ -1,0 +1,11 @@
+boto3
+colorama
+requests
+Flask>=0.10.1
+python-json-logger
+flask-httpauth
+moto
+simplejson
+requests
+structlog
+termcolor

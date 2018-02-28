@@ -1,0 +1,25 @@
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+"boto3" = "*"
+requests = "*"
+Flask = ">=0.10.1"
+Flask-HTTPAuth = "*"
+simplejson = "*"
+moto = "*"
+flask-request-id = "*"
+structlog = "*"
+python-json-logger = "*"
+colorama = "*"
+flask-request-id-middleware = "*"
+termcolor = "*"
